@@ -65,12 +65,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
-![image](https://github.com/runtime-error786/accordion-/assets/123109871/a5d7281a-232c-429c-b05e-4846eb58e7fa)
-![Uploading image.png…]()
-
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+![image](https://github.com/runtime-error786/accordion-/assets/123109871/a5d7281a-232c-429c-b05e-4846eb58e7fa)
+![image](https://github.com/runtime-error786/accordion-/assets/123109871/26989c04-cd0b-4e47-b79c-173403112dbe)
