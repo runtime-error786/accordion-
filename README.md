@@ -1,3 +1,6 @@
+Description:
+I make accordion to show diffrent data using javascript not bootsrap
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -62,6 +65,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
+![image](https://github.com/runtime-error786/accordion-/assets/123109871/a5d7281a-232c-429c-b05e-4846eb58e7fa)
+![Uploading image.png…]()
+
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
