@@ -1,5 +1,6 @@
 Description:
 I make accordion to show diffrent data using javascript not bootsrap
+git clone https://github.com/your-username/folder_name.git
 
 # Getting Started with Create React App
 
